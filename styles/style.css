@@ -320,6 +320,7 @@ p {
 }
 
 .footer__column-heading{
+  margin: 0;
   padding-bottom: 20px;
   display: flex;
   line-height: 30px;
