@@ -2,6 +2,8 @@
   margin: 0;
   padding-left: 48px;
   color: #2f80ed;
+  display: flex;
+  align-self: flex-start;
   text-decoration: none;
   line-height: 42px;
   font-size: 30px;

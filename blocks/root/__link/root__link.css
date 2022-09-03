@@ -1,4 +1,8 @@
+.root__link {
+  opacity: 1;
+  transition: opacity 0.4s;
+}
+
 .root__link:hover {
   opacity: 0.7;
-  transition: opacity 0.5s;
 }
