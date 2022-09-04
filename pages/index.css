@@ -1,3 +1,4 @@
+@import url(../vendor/normalize.css);
 @import url(../blocks/root/root.css);
 @import url(../blocks/root/__link/root__link.css);
 /* корень */
